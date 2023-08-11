@@ -30,6 +30,14 @@
       }
     },
     {
+      "name":"planq",
+      "address": "plqvaloper1pz77k4qj3qvk9d63fc7n954730xjc0tfclka6v",
+      "restake": {
+        "address": "plq1gnlmw0dlcnx6srzxsh24rekvjnhcp74y3kxswc",
+        "run_time": "every 1 hour",
+        "minimum_reward": 1000000000000000000
+      },
+    {
       "name": "jackal",
       "address": "jklvaloper14496590ckwy626sfhgafn64xayg84zdr4g73er",
       "restake": {
